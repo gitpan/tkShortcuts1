@@ -1,0 +1,6 @@
+Revision history for Perl extension tkShortcuts1.
+
+0.01  Tue Feb 28 11:43:13 2006
+	- original version; created by h2xs 1.23 with options
+		-X -n tkShortcuts1
+
